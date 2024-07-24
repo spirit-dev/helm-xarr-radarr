@@ -1,5 +1,7 @@
 # Welcome to radarr
 
+[![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=radarr-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/radarr-turingpi)
+
 ## Table of content
 
 - [Welcome to radarr](#welcome-to-radarr)
