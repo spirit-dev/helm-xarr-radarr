@@ -733,7 +733,10 @@ data:
       "preload": false,
       "refresh": "5s",
       "schemaVersion": 40,
-      "tags": [],
+      "tags": [
+        "xArr",
+        "radarr"
+      ],
       "templating": {
         "list": [
           {
